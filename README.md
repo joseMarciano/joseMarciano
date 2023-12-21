@@ -17,9 +17,4 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josemarciano&label=Profile%20views&color=0e75b6&style=flat" alt="josemarciano" /> </p>
-  
-  
- <h3 align="left">Medium Posts:</h3>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@marcianojosepaulo/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@marcianojosepaulo/0" alt="Recent Article 0"> 
-     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@marcianojosepaulo/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@marcianojosepaulo/1" alt="Recent Article 1"> 
 
