@@ -1,10 +1,14 @@
+<div align="center">
+
 # Hey, I'm José Paulo Marciano
 
-[![Senior Software Engineer | Go](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=false&vCenter=true&width=600&lines=Senior+Software+Engineer+%7C+Go)](https://git.io/typing-svg)
+[![Senior Software Engineer | Go](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer+%7C+Go)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose_Marciano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marciano-josepaulo/)
 [![Medium](https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@marcianojosepaulo)
 [![Website](https://img.shields.io/badge/Website-josemarciano.github.io-00D4AA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://josemarciano.github.io/)
+
+</div>
 
 ---
 
@@ -62,14 +66,22 @@ I'm a Senior Software Engineer specializing in **Go backend services** for comme
 
 ---
 
+<div align="center">
+
 ## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=joseMarciano&show_icons=true&hide_rank=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats for joseMarciano" />
 
+</div>
+
 ---
+
+<div align="center">
 
 ### Let's Connect!
 
 I'm always open to conversations about **Go**, **system design**, and **building reliable software**.
 
 [![Email](https://img.shields.io/badge/Get_in_Touch-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcianojosepaulo@gmail.com)
+
+</div>
