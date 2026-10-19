@@ -1,20 +1,14 @@
-<h1 align="center">Hi 👋, I'm José Paulo Marciano 👽</h1>
-<h3 align="center">A passionate back-end developer from Brazil</h3>
+# José Paulo Marciano
 
-<div align="center">
-  <a href="https://github.com/joseMarciano">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseMarciano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseMarciano&layout=compact&langs_count=6&count_private=true&theme=dracula&hide=C,C%2B%2B"/>
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josemarciano&theme=dracula" alt="josemarciano" />
-</div>
+**Senior Software Engineer · Go · Commerce & Financial Systems**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/marciano-josepaulo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marciano-josepaulo" height="30" width="40" /></a>
-<a href="https://instagram.com/marcianojosepaulo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marcianojosepaulo" height="30" width="40" /></a>
-</p>
+I design Go services for commerce and financial systems. At McGraw Hill, I develop the EDOMS offer-pricing service and help establish Go engineering practices for the team. Previously at BTG Pactual, I worked on risk calculation and transaction-limit services.
 
+## Selected Go studies
 
+These are study projects, not production systems.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=josemarciano&label=Profile%20views&color=0e75b6&style=flat" alt="josemarciano" /> </p>
+- [crypto-manager](https://github.com/joseMarciano/crypto-manager) — gRPC APIs for users, exchanges, and accounts, with PostgreSQL and NATS. An architecture-focused take-home exercise; concurrent deposits or withdrawals on the same account are not yet safe.
+- [goexpert-clean-arch](https://github.com/joseMarciano/goexpert-clean-arch) — a course exercise exposing an orders service through HTTP, gRPC, and GraphQL, with MySQL and RabbitMQ events.
 
+[Portfolio](https://josemarciano.github.io/) · [LinkedIn](https://www.linkedin.com/in/marciano-josepaulo/)
